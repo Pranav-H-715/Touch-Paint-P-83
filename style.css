@@ -1,0 +1,35 @@
+.body_background
+{
+    background-image: url("bg1.jpg");
+    background-position: center;
+    background-size: cover;
+}
+h1
+{
+    color: chocolate;
+    font-family: cursive;
+    font-size: 35;
+}
+#canvas
+{
+    border-width: 30px;
+    border-style: ridge;
+    background-color: azure;
+}
+span
+{
+    font-size: 20px;
+}
+input
+{
+    margin-right: 20px;
+    height: 25px;
+    width: 50px;
+}
+button
+{
+    background-color: cornflowerblue;
+    padding: 10px;
+    font-family: cursive;
+    font-size: 18;
+}
